@@ -18,15 +18,15 @@
 | Apache Kafka | Stream Ingestion |
 | Apache Spark | Stream/MR processing |
 
-| Software | function |
-|----------|----------|
-| OS | CoreOS* |
-| OS | other linux |
-| Container | Docker |
-| Container Control | Fleet |
-|Container Control | Kubernate |
-|Monitoring Instrument| SysDig |
-|Monitoring DB | Influxdb |
-|Monitoring Visulization | Grafana |
-
-
+| Software | function | todo |
+|----------|----------|------|
+| OS | CoreOS* | rebuild |
+| OS | other linux | ? |
+| Container | Docker | none |
+| Container Control | Fleet | like CoreOS |
+|Container Control | Kubernate | none |
+|Monitoring Instrument| SysDig | extend to multiple machine |
+|Monitoring DB | Influxdb | ? |
+| Active monitoring | ? | ? |
+|Cluster OS | ? | ? |
+|Monitoring Visulization | Grafana | PI/Scatter/Histogram |
